@@ -1,2 +1,3 @@
 # voterfile
-A collection of utlities for analyzing voter data
+
+A collection of utilities to analyze voter file data.

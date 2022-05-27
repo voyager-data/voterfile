@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "voters"
+version = "0.1.0"
+description = ""
+authors = ["Adam Gutcheon <adam@gutcheon.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+geopandas = "^0.10.2"
+pyshp = "^2.3.0"
+lxml = "^4.8.0"
+pykml = "^0.2.0"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.13.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
